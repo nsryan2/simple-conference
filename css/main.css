@@ -1,0 +1,52 @@
+@font-face {
+    font-family: DINWebPro;
+    src: url("../fonts/DINWebPro.woff") format("woff");
+}
+
+@font-face {
+    font-family: DINWebPro-Bold;
+    src: url("../fonts/DINWebPro-Bold.woff") format("woff");
+}
+
+body {
+    font-family: DINWebPro, Calibri, Arial, sans-serif;
+}
+
+.web-header {
+    background: url(../img/web-header.jpg) no-repeat left center;
+    height: 290px;
+    position: relative;
+}
+
+.header-text {
+    position: absolute;
+    bottom: 10%;
+}
+
+h1 {
+  color: #64A70B;
+  font-size: 26px;
+}
+
+
+.web-header h1 {
+    font-family: DINWebPro-Bold, Calibri, Arial, sans-serif;
+    color: #fff;
+    margin: 0;
+    font-size: 38px;
+    text-transform: uppercase;
+}
+
+.web-header h2 {
+    font-family: DINWebPro, Calibri, Arial, sans-serif;
+    color: #fff;
+    margin: 0;
+    font-size: 38px;
+    text-transform: uppercase;
+}
+
+.pentair-logo img {
+    margin: 0 auto;
+    max-width: 200px;
+    margin: 0 0 20px 0;
+}
