@@ -1,0 +1,43 @@
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+</map>
+<!-- use this for event maps, it allows you to send people do different places based off of where they click-->
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p>HTML links are defined with the a tag:</p>
+
+<a href="https://www.w3schools.com">This is a link</a>
+
+</body>
+</html>
+<!-- linking things-->
+
+
+
+
+<style>
+body {
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+<!-- this makes a background image that scales to the page, no strech. you can do this without the bkg attachment and bkg size bit-->
+
+
+
+
+
+
