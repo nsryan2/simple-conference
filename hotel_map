@@ -71,10 +71,10 @@
                             </a>
                         <ul class="dropdown-menu" role="menu">
                             <li>
-                                <a href="accomidations.html">Accomidations</a>
+                                <a href="accommodations.html">Accommodations</a>
                             </li>
                             <li>
-                                <a href="travel_arrangments.html">Travel Arrangements</a>
+                                <a href="travel_arrangements.html">Travel Arrangements</a>
                             </li>
                             <li>
                                 <a href="https://www.google.com/maps/d/u/1/viewer?mid=1DZlVNqQaclivoKJtnRSdl__ObGnnHg2a&ll=40.11294072042654%2C-88.22797958547415&z=15">Once You're Here</a>
@@ -95,7 +95,7 @@
                         <a href="call_for_papers.html">Call for Papers</a>
                     </li>
                     <li>
-                        <a href="sponsors.html">Sponsors</a>
+                        <a href="sponsorship.html">Sponsorship</a>
                     </li>
                     <li>
                         <a href="contact_us">Contact Us</a>
