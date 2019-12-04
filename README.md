@@ -1,4 +1,3 @@
-# simple-conference
 Conference Website
 
 Things that need to get done for coding:
