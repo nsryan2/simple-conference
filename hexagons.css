@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    background: rgb( 123, 158, 158);
+    background: rgb(225,225,225);
 }
 #hexGrid {
   display: flex;
