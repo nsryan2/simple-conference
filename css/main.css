@@ -59,18 +59,21 @@ h1 {
     padding 20px;
     display: flex;
     flex-direction: row;
+    position: left;
 }
 
 .features figure {
     margin: auto;
     text-align: center;
     text-transform: uppercase;
-    width: 100px
+    width: 50px;
+    position: left;
 }
 
 .features figure img {
     border: 1px solid white;
     border-radius: 10%;
     box-shadow: gray 0 0 10px;
-    width: 100px
+    width: 50px;
+    position: left;
 }
