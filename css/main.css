@@ -52,3 +52,25 @@ h1 {
     max-width: 200px;
     margin: 0 0 20px 0;
 }
+
+.features {
+    background: white;
+    color: gray;
+    padding 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.features figure {
+    margin: auto;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100px
+}
+
+.features figure img {
+    border: 1px solid white;
+    border-radius: 50%;
+    box-shadow: gray 0 0 10px;
+    width: 100px
+}
