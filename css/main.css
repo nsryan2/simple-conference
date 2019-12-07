@@ -70,7 +70,7 @@ h1 {
 
 .features figure img {
     border: 1px solid white;
-    border-radius: 50%;
+    border-radius: 10%;
     box-shadow: gray 0 0 10px;
     width: 100px
 }
