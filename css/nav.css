@@ -5,6 +5,7 @@
 
 .navbar-default .navbar-nav>li>a {
     color: #fff;
+    text-position: center;
     text-transform: uppercase;
 }
 
