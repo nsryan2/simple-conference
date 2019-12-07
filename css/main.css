@@ -77,3 +77,11 @@ h1 {
     width: 50px;
     position: left;
 }
+
+.footer {
+    background: gray;
+    colour: lime;
+    font-size: 20px;
+    padding: 25px 25px;
+    text-align: center;
+}
