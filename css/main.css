@@ -15,7 +15,7 @@ body {
 .web-header {
     background: url(../img/web-header.jpg) no-repeat left center;
     background-size: 100%;
-    background-position: center;
+    background-position: top;
     height: 290px;
     position: relative;
 }
