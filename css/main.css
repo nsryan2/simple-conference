@@ -12,7 +12,7 @@ body {
     font-family: DINWebPro, Calibri, Arial, sans-serif;
 }
 
-header .site-logo a{
+web-header .site-logo a{
     background-image: url("images/ans.png");
     background-size: 50px;
     background-repeat: no-repeat;
