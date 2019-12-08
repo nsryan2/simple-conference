@@ -1,0 +1,487 @@
+<!-- html -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ANS Student Conference 2021</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/nav.css">
+    <style>p.indent{ padding-left: 1.8em }</style>
+    </head>
+    <head>
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand visible-xs" data-toggle="collapse" data-target="#navigation" href="#"><i class="fa fa-ellipsis-v fa-2x" aria-hidden="true"></i></a>
+            </div>
+            <div class="collapse navbar-collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Welcome
+
+                                <i class="fa fa-angle-down" aria-hidden="true"></i>
+                            </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li>
+                                <a href="index.html">Home</a>
+                            </li>
+                            <li>
+                                <a href="code_of_ethics.html">Code of Ethics</a>
+                            </li>
+                            <li>
+                                <a href="respectful_behavior_policy.html">Respectful Behavior Policy</a>
+                            </li>
+                            <li>
+                                <a href="about_ans.html">About ANS</a>
+                            </li>
+                            <li>
+                                <a href="statement_of_diversity.html">Statement of Diversity</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Program
+
+                                <i class="fa fa-angle-down" aria-hidden="true"></i>
+                            </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li>
+                                <a href="agenda.html">Agenda</a>
+                            </li>
+                            <li>
+                                <a href="speakers.html">Speakers</a>
+                            </li>
+                            <li>
+                                <a href="tours.html">Tours</a>
+                            </li>
+                            <li>
+                                <a href="career_fair.html">Career Fair</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Transportation
+
+                                <i class="fa fa-angle-down" aria-hidden="true"></i>
+                            </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li>
+                                <a href="accommodations.html">Accommodations</a>
+                            </li>
+                            <li>
+                                <a href="travel_arrangements.html">Travel Arrangements</a>
+                            </li>
+                            <li>
+                                <a href="https://www.google.com/maps/d/u/1/viewer?mid=1DZlVNqQaclivoKJtnRSdl__ObGnnHg2a&ll=40.11294072042654%2C-88.22797958547415&z=15">Once You're Here</a>
+                            </li>
+                            <li>
+                                <a href="hotel_information.html">Hotel Information</a>
+                            </li>
+                            <li>
+                                <a href="hotel_map.html">Hotel Map</a>
+                            </li>
+
+                        </ul>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Attend
+
+                                <i class="fa fa-angle-down" aria-hidden="true"></i>
+                            </a>
+                        <ul class="dropdown-menu" role="menu">
+                           <li>
+                        <a href="registration.html">Registration</a>
+                    </li>
+                    <li>
+                        <a href="call_for_papers.html">Call for Papers</a>
+                    </li>
+                          </li>
+                        </ul>
+                    <li>
+                        <a href="sponsorship.html">Sponsorship</a>
+                    </li>
+                    <li>
+                        <a href="contact_us">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    </head>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <div class="Conference-Logo"><img src="img/Conference Logo.png" alt="Logo" class="img-responsive"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row web-header">
+            <div class="col-md-12 col-md-offset-1 header-text">
+                <h1>2021 Student Conference UIUC</h1>
+                <h2>Urbana, Il</h2>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+                <div class="content">
+                    <h1>ANS Student Conference 2021 Committee</h1>
+                    <p>For board members who wish to upload their photo, please upload with the convention of your first and last name (no capitals) and underscore bars between names to the assets folder. Updating the link your profile leads to must be done in the code for this page (contact_us.html). Search your name in the code and there will be a place that says {insert link here}, then replace the {} in the quotes with your link.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="hexagons.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <ul id="hexGrid">
+      <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="sam_dotson.jpg" alt="Sam Dotson" />
+            <h1>Sam Dotson</h1>
+            <p>General Co-Chair</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="jemmy_mebbler.jpg" alt="Jemmy Mebbler" />
+            <h1>Jemmy Mebbler</h1>
+            <p>Technical Co-Chair</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="nathan_reid.jpg" alt="Nathan Reid" />
+            <h1>Nathan Reid</h1>
+            <p>Diversity Co-Chair</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="gwen_chee.jpg" alt="Gwen Chee" />
+            <h1>Gwen Chee</h1>
+            <p>Technical Subcomittee Chair</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="natalie_caughan.jpg" alt="Natalie Caughan" />
+            <h1>Natalie Caughan</h1>
+            <p>Logistics Chair</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="jack_stahl.jpg" alt="Jack Stahl" />
+            <h1>Jack Stahl</h1>
+            <p>Financial Chair</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="james_shehee.jpg" alt="James Shehee" />
+            <h1>James Shehee</h1>
+            <p>Sponsorship Coordinator</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="jasmine_dinari.jpg" alt="Jasmine Dinari" />
+            <h1>Jasmine Dinari</h1>
+            <p>Registration Coordinator</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="roberto_fairhurst.jpg" alt="Roberto Fairhurst" />
+            <h1>Roberto Fairhurst</h1>
+            <p>Workshops Coordinator</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="zachary_jeckell.jpg" alt="Zachary Jeckell" />
+            <h1>Zachary Jeckell</h1>
+            <p>Sessions Coordinator</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="grzegorz_golba.jpg" alt="Grzegorz Golba" />
+            <h1>Grzegorz Golba</h1>
+            <p>Career Fair Coordinator</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="dilan_kurukulasuriya.jpg" alt="Dilan Kurukulasuriya" />
+            <h1>Dilan Kurukulasuriya</h1>
+            <p>Program Coordinator</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="gavin_davis.jpg" alt="Gavin Davis" />
+            <h1>Gavin Davis</h1>
+            <p>Hotels and Transportation Coordinator</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="brady_moran.jpg" alt="Brady Moran" />
+            <h1>Brady Moran</h1>
+            <p>Hospitality and Catering Coordinator</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="{insert link here}">
+            <img src="anna_balla.jpg" alt="Anna Balla" />
+            <h1>Anna Balla</h1>
+            <p>Tours Coordinator</p>
+          </a>
+        </div>
+      </li>
+        <li class="hex">
+        <div class="hexIn">
+          <a class="hexLink" href="https://www.linkedin.com/in/nathan-ryan-5a06b8193">
+            <img src="nathan_ryan_headshot.jpg" alt="Nathan Ryan" />
+            <h1>Nathan Ryan</h1>
+            <p>Media Coordinator</p>
+          </a>
+        </div>
+      </li>
+    </ul>
+  </body>
+ 	<footer>
+ 	<section class="features">
+    <figure>
+      <a href="https://twitter.com/ANS_Illinois/">
+      <img src="img/Twitter.png" alt="ANS Twitter">
+      </a>
+    </figure>
+    <figure>
+      <a href="https://www.facebook.com/groups/ANSatUofI/">
+      <img src="img/Facebook.png" alt="ANS Facebook">
+      </a>
+    </figure>
+    <figure>
+      <a href="http://www.ans.org/">
+      <img src="img/ans.png" alt="ANS National Website">
+      </a>
+    </figure>
+  </section>
+  </footer>
+</html>
+
+
+
+<!--customized css-->
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: rgb(255,255,255);
+}
+#hexGrid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 0 auto;
+  overflow: hidden;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  list-style-type: none;
+}
+
+.hex {
+  position: relative;
+  visibility:hidden;
+  outline:1px solid gray; /* fix for jagged edges in FF on hover transition */
+}
+.hex::after{
+  content:'';
+  display:block;
+  padding-bottom: 86.602%;  /* =  100 / tan(60) * 1.5 */
+}
+.hexIn{
+  position: absolute;
+  width:96%;
+  padding-bottom: 110.851%; /* =  width / sin(60) */
+  margin:0 2%;
+  overflow: hidden;
+  visibility: hidden;
+  outline:1px solid gray; /* fix for jagged edges in FF on hover transition */
+  -webkit-transform: rotate3d(0,0,1,-60deg) skewY(30deg);
+      -ms-transform: rotate3d(0,0,1,-60deg) skewY(30deg);
+          transform: rotate3d(0,0,1,-60deg) skewY(30deg);
+}
+.hexIn * {
+  position: absolute;
+  visibility: visible;
+  outline:1px solid transparent; /* fix for jagged edges in FF on hover transition */
+}
+.hexLink {
+    display:block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: #000000;
+    overflow: hidden;
+    -webkit-transform: skewY(-30deg) rotate3d(0,0,1,60deg);
+        -ms-transform: skewY(-30deg) rotate3d(0,0,1,60deg);
+            transform: skewY(-30deg) rotate3d(0,0,1,60deg);
+}
+
+/*** HEX CONTENT **********************************************************************/
+.hex img {
+  left: -100%;
+  right: -100%;
+  width: auto;
+  height: 100%;
+  margin: 0 auto;
+  -webkit-transform: rotate3d(0,0,0,0deg);
+      -ms-transform: rotate3d(0,0,0,0deg);
+          transform: rotate3d(0,0,0,0deg);
+}
+
+.hex h1, .hex p {
+  width: 100%;
+  padding: 5%;
+  box-sizing:border-box;
+  background-color: rgba(255,255,255);
+  font-weight: 300;
+  -webkit-transition:  -webkit-transform .2s ease-out, opacity .3s ease-out;
+          transition:          transform .2s ease-out, opacity .3s ease-out;
+}
+.hex h1 {
+  bottom: 50%;
+  padding-top:50%;
+  font-size: 1.5em;
+  z-index: 1;
+  -webkit-transform:translate3d(0,-100%,0);
+      -ms-transform:translate3d(0,-100%,0);
+          transform:translate3d(0,-100%,0);
+}
+.hex h1::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 45%;
+  width: 10%;
+  text-align: center;
+  border-bottom: 1px solid #fff;
+}
+.hex p {
+  top: 50%;
+  padding-bottom:50%;
+  -webkit-transform:translate3d(0,100%,0);
+      -ms-transform:translate3d(0,100%,0);
+          transform:translate3d(0,100%,0);
+}
+
+
+/*** HOVER EFFECT  **********************************************************************/
+.hexLink:hover h1, .hexLink:focus h1,
+.hexLink:hover p, .hexLink:focus p{
+  -webkit-transform:translate3d(0,0,0);
+      -ms-transform:translate3d(0,0,0);
+          transform:translate3d(0,0,0);
+}
+
+/*** HEXAGON SIZING AND EVEN ROW INDENTATION *****************************************************************/
+@media (min-width:1201px) { /* <- 5-4  hexagons per row */
+  #hexGrid{
+    padding-bottom: 4.4%
+  }
+  .hex {
+    width: 20%; /* = 100 / 5 */
+  }
+  .hex:nth-child(9n+6){ /* first hexagon of even rows */
+    margin-left:10%;  /* = width of .hex / 2  to indent even rows */
+  }
+}
+
+@media (max-width: 1200px) and (min-width:901px) { /* <- 4-3  hexagons per row */
+  #hexGrid{
+    padding-bottom: 5.5%
+  }
+  .hex {
+    width: 25%; /* = 100 / 4 */
+  }
+  .hex:nth-child(7n+5){ /* first hexagon of even rows */
+    margin-left:12.5%;  /* = width of .hex / 2  to indent even rows */
+  }
+}
+
+@media (max-width: 900px) and (min-width:601px) { /* <- 3-2  hexagons per row */
+  #hexGrid{
+    padding-bottom: 7.4%
+  }
+  .hex {
+    width: 33.333%; /* = 100 / 3 */
+  }
+  .hex:nth-child(5n+4){ /* first hexagon of even rows */
+    margin-left:16.666%;  /* = width of .hex / 2  to indent even rows */
+  }
+}
+
+@media (max-width: 600px) { /* <- 2-1  hexagons per row */
+  #hexGrid{
+    padding-bottom: 11.2%
+  }
+  .hex {
+    width: 50%; /* = 100 / 3 */
+  }
+  .hex:nth-child(3n+3){ /* first hexagon of even rows */
+    margin-left:25%;  /* = width of .hex / 2  to indent even rows */
+  }
+}
+
+@media (max-width: 400px) {
+    #hexGrid {
+        font-size: 13px;
+    }
+}
