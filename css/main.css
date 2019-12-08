@@ -26,7 +26,7 @@ body {
 }
 
 .web-header {
-    background: url(../img/web-header.jpg) no-repeat left center;
+    background: url(img/web-header.jpg) no-repeat left center;
     background-size: 100%;
     background-position: center;
     height: 350px;
@@ -34,7 +34,7 @@ body {
 }
 
 .header-text {
-    position: absolute;
+    position: center;
     bottom: 10%;
 }
 
