@@ -92,8 +92,8 @@ h1 {
 }
 
 .footer {
-    background-color: #58595b;
-    color: #58595b;
+    background-color: gray;
+    color: gray;
     font-size: 20px;
     padding: 30px 30px;
     text-align: left;
