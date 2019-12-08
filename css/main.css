@@ -14,7 +14,8 @@ body {
 
 .site-logo a{
     background-image: url("img/ans.png");
-    background-size: 50px;
+    background-size: 40px;
+    background-color: red;
     background-repeat: no-repeat;
     display: inline-block;
     height: 20px;
