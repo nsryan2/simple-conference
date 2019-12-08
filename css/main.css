@@ -12,6 +12,18 @@ body {
     font-family: DINWebPro, Calibri, Arial, sans-serif;
 }
 
+.site-logo a{
+    background-image: url("images/ans.png");
+    background-size: 50px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    position: relative;
+    text-indent: -99999999px;
+    top:-30px;
+    width: 50px;
+}
+
 .web-header {
     background: url(../img/web-header.jpg) no-repeat left center;
     background-size: 100%;
