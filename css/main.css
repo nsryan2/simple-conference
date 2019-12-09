@@ -192,14 +192,14 @@ h1 {
 }
 
 #footer {
-  background: #FFFFFF;
+  background: #58595b;
   padding: 0 0 25px 0;
-  color: #eee;
+  color: #BBBDCA;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #040919;
+  background: #58595b;
   padding: 60px 0 30px 0;
 }
 
@@ -214,7 +214,7 @@ h1 {
   line-height: 1;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  color: #fff;
+  color: #BBBDCA;
 }
 
 #footer .footer-top .footer-info img {
@@ -234,7 +234,7 @@ h1 {
   font-size: 18px;
   display: inline-block;
   background: #222636;
-  color: #eee;
+  color: #BBBDCA;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -272,7 +272,7 @@ h1 {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #f82249;
+  color: #BBBDCA;
   font-size: 18px;
 }
 
