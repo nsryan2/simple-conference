@@ -1,5 +1,7 @@
 Conference Website
 
+1. Make the side of the footer a thing for the mailing list
+
 1. Form for Registration
 2. Form for Call for Papers
 3. Form for Career Fair
