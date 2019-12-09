@@ -1,18 +1,32 @@
 Conference Website
 
-Things that need to get done for coding:
-all of the things, stupid idea
+Form for Registration
+Form for Call for Papers
+Form for Career Fair
 
-Information that should be compiled:
-1) Specific contacts for each page
-2) photos for pretty much everything
-3) speakers and speaker bios
-4) what the heck is needed for the career fair
-5) all the tours (times, dates, starting locations)
-6) about ans
-7) respectful behavior
-8) code of ethics
-9) hotel maps!
-10) pricing for attendance
-11) is it ok that the Once you're here page goes straight to the map?
-12) for registration, do we need some sort of record keeper or can we use a third party to the site? (google forms?) more formal?
+Content for About Ans
+Content for Call for Papers
+Content for Registration (pricing)
+Content for Career Fair (when, where, who's going to be there and where they will be)
+Content for Hotel Information
+Content for Sponsorship (prospectus)
+Content for Speakers (bios)
+Content for Tours (descriptions of what, where, when, how many people can go)
+
+Profile Photos for Sontact Us
+Profile Photos for Speakers
+
+Photos for Tours (locations)
+Photos for Hotel (outside)
+Photos for Career Fair (promo, happy people)
+Photos for Sponsorship (of the companies)
+
+Map for Hotel (in reference to the Union or some such common location)
+Map for Career fair (with all of the companies/groups labeled
+Map update (all the official locations for events in google map)
+
+Links for Registration (No clue how this is going to work)
+Links for Call for Papers (the 2020 website has a link to ANS and a link for reviewers)
+Links for Hotel Information (general information, booking)
+Links for Speakers (Social media, websites)
+Links for Tours (sign up for limitted quantities, general information about the place, website, social media)
