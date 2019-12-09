@@ -191,6 +191,44 @@ h1 {
   margin-bottom: 10px;
 }
 
+#supporters {
+  padding: 60px 0;
+}
+
+#supporters .supporters-wrap {
+  border-top: 1px solid #e0e5fa;
+  border-left: 1px solid #e0e5fa;
+  margin-bottom: 30px;
+}
+
+#supporters .supporter-logo {
+  padding: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-right: 1px solid #e0e5fa;
+  border-bottom: 1px solid #e0e5fa;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.5);
+  height: 160px;
+}
+
+#supporters .supporter-logo:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+#supporters img {
+  transition: all 0.4s ease-in-out;
+}
+
+
 #footer {
   background: #58595b;
   padding: 0 0 25px 0;
