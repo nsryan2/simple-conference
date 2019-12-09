@@ -1,6 +1,7 @@
 Conference Website
 
-1. Make the side of the footer a thing for the mailing list
+1. Put the actual email into the Footer newsletter
+2. Put the actual social media links into the footers and headers
 
 1. Form for Registration
 2. Form for Call for Papers
