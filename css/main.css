@@ -96,6 +96,7 @@ h1 {
 }
 
 #speakers .speaker {
+  margin: auto;
   position: relative;
   overflow: hidden;
   margin-bottom: 30px;
