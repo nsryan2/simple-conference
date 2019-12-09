@@ -246,7 +246,7 @@ h1 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #f82249;
+  background: #1a2ced;
   color: #fff;
 }
 
@@ -290,7 +290,7 @@ h1 {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #f82249;
+  color: #1a2ced;
 }
 
 #footer .footer-top .footer-contact {
@@ -312,7 +312,7 @@ h1 {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #f82249;
+  background: #1a2ced;
   border: 0;
   width: 35%;
   padding: 6px 0;
