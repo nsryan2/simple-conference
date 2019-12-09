@@ -106,11 +106,6 @@ h1 {
   position: relative;
   overflow: hidden;
   margin-bottom: 30px;
-  display: flex;
-  flex-wrap: wrap;
-  width: 90%;
-  margin: 0 auto;
-  overflow: hidden;
 }
 
 #speakers .speaker .details {
