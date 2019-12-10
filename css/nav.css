@@ -107,7 +107,7 @@
     color: #fff;
 }
 
-/*@media (min-width: 768px) {
+@media (min-width: 768px) {
     .navbar-nav {
         width: 100%;
         text-align: center;
@@ -116,4 +116,4 @@
         float: none;
         display: inline-block;
     }
-}*/
+}
