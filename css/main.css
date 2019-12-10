@@ -66,6 +66,16 @@ h1 {
     margin: 0 0 20px 0;
 }
 
+body-table {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 4rem 0;
+    font-family: -system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
 table {
     width: 100%;
     max-width: 50rem;
