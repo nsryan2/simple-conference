@@ -75,11 +75,6 @@ h1 {
     position: left;
 }
 
-
-@media (max-width: 767px) {
-    
-}
-
 .features figure {
     margin: auto;
     text-align: center;
