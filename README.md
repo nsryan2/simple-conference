@@ -33,3 +33,5 @@ Conference Website
 3. Links for Hotel Information (general information, booking)
 4. Links for Speakers (Social media, websites)
 5. Links for Tours (sign up for limitted quantities, general information about the place, website, social media)
+
+1. This is the URL for the app (not a downloadable thing, but it works offline and stores data in people's web browser. Even if they close it the information of which events they selected is still there.
