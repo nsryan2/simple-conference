@@ -100,9 +100,9 @@ h1 {
 .agenda .agenda-events {  } 
 .agenda .agenda-events .agenda-event {  } 
 
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
     
-}
+}*/
 
 .features figure {
     margin: auto;
